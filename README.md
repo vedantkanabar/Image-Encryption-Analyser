@@ -1,4 +1,4 @@
-# Crypto Module (crypto.py)
+# Crypto Module (image_encryption_analysis.py)
 
 ## Overview
 
