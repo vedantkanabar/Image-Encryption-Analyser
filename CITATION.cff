@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Image-Encryption-Analyser
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vedant
+    family-names: Kanabar
+  - given-names: Nitin
+    family-names: Satishbabu
+repository-code: 'https://github.com/vedantkanabar/Image-Encryption-Analyser'
+abstract: >-
+  A Python library with functions to encrypt/decrypt images
+  while analyzing cryptographic aspects of the image at each
+  step
+license: MIT
+date-released: '2024-04-12'
