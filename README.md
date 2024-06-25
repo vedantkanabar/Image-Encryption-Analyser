@@ -4,6 +4,8 @@
 
 This Python library is designed to convert an image to grayscale, encrypt the image, and then decrypt it while analyzing various aspects of the image at each step. The program provides functionality for analyzing the original grayscale image, the encrypted image, and the decrypted image for adjacent pixel correlation, histogram analysis using the chi-square test, and Shannon entropy. It all produces relevant images as correlation and histogram graphs. Additionally, it measures the encryption and decryption time for performance evaluation.
 
+Please use the citation attached to cite this repo if you used it!
+
 ## Authors
 - Nitin Satishbabu
 - Vedant Kanabar
